@@ -20,15 +20,27 @@ class Splash extends StatelessWidget {
             children: [
               Text(
                 'Know',
-                style: GoogleFonts.pressStart2p(fontSize: 52),
+                style: TextStyle(
+                  fontFamily: 'Pixelated',
+                  fontSize: 52
+                ),
+                // style: GoogleFonts.pressStart2p(fontSize: 52),
               ),
               Text(
                 'Your',
-                style: GoogleFonts.pressStart2p(fontSize: 52),
+                style: TextStyle(
+                  fontFamily: 'Pixelated',
+                  fontSize: 52
+                ),
+                // style: GoogleFonts.pressStart2p(fontSize: 52),
               ),
               Text(
                 'Phone',
-                style: GoogleFonts.pressStart2p(fontSize: 52),
+                style: TextStyle(
+                  fontFamily: 'Pixelated',
+                  fontSize: 52
+                ),
+                // style: GoogleFonts.pressStart2p(fontSize: 52),
               ),
             ],
           ),

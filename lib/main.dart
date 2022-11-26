@@ -1,6 +1,6 @@
-import 'package:antivirusapp/screens/results.dart';
-import 'package:antivirusapp/screens/splash.dart';
-import 'package:antivirusapp/screens/scan.dart';
+import './screens/results.dart';
+import './screens/splash.dart';
+import './screens/scan.dart';
 import 'package:flutter/material.dart';
 
 void main() {

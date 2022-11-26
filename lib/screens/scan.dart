@@ -45,7 +45,7 @@ class _ScanState extends State<Scan> {
                   children: [
                     Text(
                       message,
-                      style: GoogleFonts.pressStart2p(fontSize: 20),
+                      style: TextStyle(fontFamily: 'Pixelated', fontSize: 20),
                     ),
                     SizedBox(
                       height: 48,

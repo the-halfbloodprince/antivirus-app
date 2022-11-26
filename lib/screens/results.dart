@@ -50,7 +50,7 @@ class Results extends StatelessWidget {
             children: [
               Text(
                 'Your results are ready',
-                style: GoogleFonts.pressStart2p(fontSize: 17),
+                                style: TextStyle(fontFamily: 'Pixelated', fontSize: 17,),
               ),
               SizedBox(
                 height: MediaQuery.of(context).size.height * 0.1,
